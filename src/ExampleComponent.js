@@ -12,4 +12,4 @@ class ExampleComponent extends Component {
   }
 }
 
-export default ExampleComponent;
+export default ExampleComponent;  //expored here and imported into App.js  
